@@ -3,7 +3,7 @@
 [Leetcode 518](https://leetcode.com/problems/coin-change-2/)
 这道dp题对我来说比较难理解，首先看题：
 
-![](../pictures/lc518.png)
+![](../DP/pictures/lc518.png)
 
 ### 1. DFS + Backtracking:
 
