@@ -4,7 +4,7 @@
 
 ![](../pictures/lc22.png)
 
-### DFS + backtracking
+### DFS + Backtracking
 
 We can find that bracket "(" is always before the bracket ")", so I choose to use dfs by recursively add the open bracket "(" and then close it by ")".
 
