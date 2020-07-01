@@ -2,7 +2,7 @@
 
 [Leetcode 518](https://leetcode.com/problems/coin-change-2/)
 
-![](../DP/pictures/lc518.png)
+![](../pictures/lc518.png)
 
 ### 1. DFS + Backtracking:
 
