@@ -44,7 +44,7 @@ class UnionFind {
       }
       while (x != root) {
           int p = parents[x];
-          parents[x] = root;
+            parents[x] = root;
           x = p;
       }
       return root;
